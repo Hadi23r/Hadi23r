@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hadi23r
-- 👀 I’m interested web development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested web development and machine learning
+- 🌱 I’m currently learning HTML and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hadiriyanto2311@gmail.com
 
